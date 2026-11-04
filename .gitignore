@@ -1,0 +1,10 @@
+/bin/
+/obj/
+/release/
+/tests/*.exe
+/tests/*.pdb
+/tests/*.txt
+*.user
+*.suo
+.vs/
+/tests/runtime-*/
