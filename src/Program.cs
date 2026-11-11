@@ -3,8 +3,8 @@ using System.Reflection;
 using System.Threading;
 using System.Windows.Forms;
 [assembly: AssemblyTitle("窗口针织边框 Windows 完整设置版")]
-[assembly: AssemblyVersion("0.2.0.0")]
-[assembly: AssemblyFileVersion("0.2.0.0")]
+[assembly: AssemblyVersion("0.2.1.0")]
+[assembly: AssemblyFileVersion("0.2.1.0")]
 namespace WindowSweaters
 {
   internal static class Program

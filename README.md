@@ -4,11 +4,15 @@
 
 给日常使用的软件加一圈针织边框：可以是低调的细线，也可以是带花纹的毛线边。右键托盘里的毛线图标，就能调整图案、颜色和粗细。
 
-[下载 v0.2.0](https://github.com/LY134774/window-sweaters-windows/releases/tag/v0.2.0) · [使用说明](使用说明.md) · [原 Mac 项目](https://github.com/saragordic/window-sweaters)
+[下载 v0.2.1](https://github.com/LY134774/window-sweaters-windows/releases/tag/v0.2.1) · [使用说明](使用说明.md) · [原 Mac 项目](https://github.com/saragordic/window-sweaters)
 
 ![针织花纹样张](docs/assets/patterns.png)
 
 *上图由本项目实际使用的渲染器生成，是花纹样张，不是桌面截图。*
+
+## v0.2.1 更新
+
+修复搜狗输入法辅助图层导致边框突然消失的问题。升级时先退出旧版，原来的配色、图案和开关会保留。
 
 ## 你可以怎么搭
 
@@ -29,7 +33,7 @@
 
 ## 三步开始
 
-1. 从 [Releases](https://github.com/LY134774/window-sweaters-windows/releases/latest) 下载 `WindowSweaters-Windows-v0.2.0-x64.zip`，解压后运行 `WindowSweaters.Windows.exe`。
+1. 从 [Releases](https://github.com/LY134774/window-sweaters-windows/releases/latest) 下载 `WindowSweaters-Windows-v0.2.1-x64.zip`，解压后运行 `WindowSweaters.Windows.exe`。
 2. 在右下角托盘找到毛线图标。如果没看到，展开隐藏图标区。
 3. **右键毛线图标**，选择边框粗细、图案，或打开“软件配色和图案”。
 
